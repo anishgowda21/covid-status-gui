@@ -1,6 +1,4 @@
 from tkinter import *
-import requests
-import json
 import datetime
 from datetime import datetime
 from covid import Covid
